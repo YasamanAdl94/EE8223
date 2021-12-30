@@ -1,9 +1,15 @@
-# EE8223 - Experiment Code
+# EE8223 - Project Code
 The code is implemented in Google Colab Pro. Each cell runs by pressing Shift+Enter or pressing the play button next to each cell.  
 Path and Root should be changed to the dataset directory.  
 First cell executes and imports the required libraries for the rest of the code.  
 The second cell sets the audio signals as pandas dataframes.  
 Each cell of code is commented to be more clear.
+# Steps  
+
+    Open EE8223.ipynb in Google Colab
+    Switch Colab Runtime to GPU
+    Run the notebook blocks sequentially to ensure all dependencies are present
+
 
 # Dataset
 **Video**  
@@ -17,6 +23,9 @@ YT: https://www.youtube.com/c/CtrlShiftFace/videos
 
 ASVSpoof 2019 (Paper) https://datashare.ed.ac.uk/handle/10283/3336  
 FoR (Implementation) https://bil.eecs.yorku.ca/datasets/  
+
+# Results  
+Results will be saved as txt and csv files in root of the drive.
 
 # Code References  
 1. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html  
