@@ -25,7 +25,7 @@ ASVSpoof 2019 (Paper) https://datashare.ed.ac.uk/handle/10283/3336
 FoR (Implementation) https://bil.eecs.yorku.ca/datasets/  
 
 # Results  
-Results will be saved as txt and csv files in root of the drive.
+Results will be saved as txt and csv files in root of the google drive.
 
 # Code References  
 1. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html  
